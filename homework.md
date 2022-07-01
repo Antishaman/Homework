@@ -35,7 +35,8 @@ git checkout branch_name
 git log --graph
 
 Для слияния веток используется команда: 
-git merge branch_name
+git merge branch_name (Важно: вначале перейти в ту ветку куда планируется влить сливаемую ветку)
+
 # Инструкция по написанию текстов в MrakDown
 
 ## Выделение текстов
